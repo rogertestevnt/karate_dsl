@@ -11,4 +11,4 @@ non-production environment.
 From this url it is possible to get the API running:
 https://github.com/BestBuy/api-playground
 
-
+For running the tests, execute $mvn verify
